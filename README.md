@@ -16,7 +16,7 @@ Begin by unzipping Output and Bias Reports folders.
 
 ### Scripts
 
-- **`system_prompt5.md`** — Contains the in-context learning (ICL) prompt used with Gemini to generate the bias audit reports.
+- **`system_prompt5.md`** — Contains the in-context learning (ICL) prompt used with Gemini to generate the bias audit reports based on Basha et al.'s work which can be found [here](https://osf.io/uydae/files/28hzj?view_only=20966206d38840ee907d576bb17fd4bd).
 - **`calculate_bias_metrics.py`** — Performs preprocessing and calculates the bias metrics required for the subsequent statistical analyses.
 - **`calculate_stats.py`** — Performs the statistical analyses and generates the corresponding results.
 - **`run_experiment.py`** — Executes the first stage of the study by generating code artifacts for all experimental conditions and workflow stages.
