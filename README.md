@@ -1,4 +1,4 @@
-# Following the Bias: Propagation of Bias Across the Software Development Stages in AI-Generated Code
+# Tracing Bias Propagation Across AI-Assisted Software Development Stages
 
 This repository contains the code, data, generated outputs, and statistical analyses for the study.
 
